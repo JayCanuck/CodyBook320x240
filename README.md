@@ -1,9 +1,66 @@
-## ComicBook - 320x240 SimpleMenu Theme
+## CodyBook - 320x240 SimpleMenu Theme
 
-Based on https://github.com/TMNTturtleguy/es-theme-ComicBook_4-3
-<br>and https://github.com/CkauNui/ckau-book
-<br>Some assets borrowed from fgl82's Big Cody theme https://github.com/fgl82/BigCody
-<br>and their 0A theme https://github.com/fgl82/0A
+A sleek modern theme combining the popular [ComicBook](https://github.com/retrogamecorps/ComicBook320x240) and [BigCody](https://github.com/fgl82/BigCody) themes.
+
+BigCody theme is based on [es-theme-epic-cody-RG351V](https://github.com/CodyV59/es-theme-epic-cody-RG351V), a fork of [es-theme-epicnoir](https://github.com/c64-dev/es-theme-epicnoir) theme.
+ComicBook theme is based on [es-theme-ComicBook_4-3](https://github.com/TMNTturtleguy/es-theme-ComicBook_4-3) and [ckau-book](https://github.com/CkauNui/ckau-book), with some assets from [BigCody](https://github.com/fgl82/BigCody) and [0A](https://github.com/fgl82/0A) themes.
+
+---
+
+### Supported Systems
+
+This theme supports the following SimpleMenu systems:
+
+* Amiga
+* Amstrad CPC
+* Atari 2600
+* Atari 5200
+* Atari 7800
+* Atari 800
+* Atari Lynx
+* Atari ST
+* BBC Micro
+* CPS
+* Colecovision
+* Commodore 64
+* DOS
+* Daphne
+* Doom
+* FDS
+* Favorites
+* FinalBurn Alpha
+* Game & Watch
+* Game Boy
+* Game Boy Advance
+* Game Boy Color
+* Game Gear
+* Intellivision
+* MAME
+* MSX
+* Master System
+* NES
+* Neo Geo
+* Neo Geo Pocket
+* Neo Geo Pocket Color
+* PC Engine
+* PC Engine CD
+* Pico-8
+* PlayStation
+* Pokemon Mini
+* Quake
+* SNES
+* ScummVM
+* Sega 32X
+* Sega CD
+* Sega Genesis
+* Sega SG-1000
+* Supervision
+* TIC-80
+* TurboGrafx-16 (shows as `PC Engine` currently)
+* TurboGrafx-CD (shows as `PC Engine CD` currently)
+* Virtual Boy
+* Wonderswan
+* ZX Spectrum
 
 ---
 
